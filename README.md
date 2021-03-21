@@ -1,0 +1,1 @@
+# django_mdntutorial_locallibrary
